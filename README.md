@@ -15,10 +15,10 @@ React 18 · Vite · Tailwind CSS · Axios · React Hook Form · MockAPI.io
 
 ## Setup
 
-1. Clone the repo and install deps:
+ Clone the repo and install deps:
 ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/zymmy5507/book-management/blob/main/README.md
    cd book-management
    npm install
 ```
-2. Create a `.env` file:
+
